@@ -162,7 +162,7 @@ button:hover {
 
 #darkModeToggle {
   position: fixed;
-  bottom: 1rem;
+  bottom: 5rem;
   right: 1rem;
   padding: 0.5rem 1rem;
   font-size: 1rem;
